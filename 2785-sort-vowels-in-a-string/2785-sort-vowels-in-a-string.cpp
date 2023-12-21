@@ -12,6 +12,7 @@ class Solution {
     }
 
 public:
+    // counting sort
     string sortVowels(string s) {
         int freq[128] = {0};
         int len = s.size();
