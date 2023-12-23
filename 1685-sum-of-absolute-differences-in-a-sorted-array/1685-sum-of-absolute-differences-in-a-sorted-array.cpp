@@ -58,8 +58,8 @@ class Solution {
     }
 public:
     vector<int> getSumAbsoluteDifferences(vector<int>& nums) {
-        return firstApproach(nums);
-        // return secondApproach(nums);
+        // return firstApproach(nums);
+        return secondApproach(nums);
     }
 };
 
