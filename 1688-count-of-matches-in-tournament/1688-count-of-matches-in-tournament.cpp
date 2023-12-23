@@ -23,7 +23,7 @@ class Solution {
     }
 public:
     int numberOfMatches(int n) {
-        // return firstApproach(n);
-        return secondApproach(n);
+        return firstApproach(n);
+        // return secondApproach(n);
     }
 };
