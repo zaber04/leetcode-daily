@@ -100,7 +100,7 @@ class Solution {
     }
 public:
     vector<bool> checkArithmeticSubarrays(vector<int>& nums, vector<int>& l, vector<int>& r) {
-        // return firstApproach(nums, l, r);
-        return secondpproach(nums, l, r);
+        return firstApproach(nums, l, r);
+        // return secondpproach(nums, l, r);
     }
 };
