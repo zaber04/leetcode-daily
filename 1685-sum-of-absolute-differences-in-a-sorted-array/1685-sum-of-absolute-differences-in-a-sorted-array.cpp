@@ -53,13 +53,25 @@ class Solution {
     
     vector<int> thirdApproach(vector<int>& nums) {
         // https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/discuss/4329011/Concise-100-approach-and-Mathematical-proof
-        return {};
         
+        int len = nums.size();
+        vector<int> ans(len, 0);
+        
+        for(int i = 1; i < len; i++) {
+            ans[0] += nums[i] - nums[0];
+        }
+        
+        for (int i = 1; i < len; ++i) {
+            ans[i] = ans[i-1] + (2*i - len) * (nums[i] - nums[i-1]);
+        }
+        
+        return ans;
     }
 public:
     vector<int> getSumAbsoluteDifferences(vector<int>& nums) {
         // return firstApproach(nums);
-        return secondApproach(nums);
+        // return secondApproach(nums);
+        return thirdApproach(nums);
     }
 };
 
