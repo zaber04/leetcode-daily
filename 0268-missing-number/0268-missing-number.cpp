@@ -1,6 +1,5 @@
 class Solution {
-public:
-    int missingNumber(vector<int>& nums) {
+    int firstApproach(vector<int>& nums) {
         // indexes are 0 to n
         // numbers have to be 0 to n
         // a xor a = 0
@@ -16,7 +15,7 @@ public:
         return out;
     }
 
-    int missingNumber2(vector<int>& nums) {
+    int secondApproach(vector<int>& nums) {
         // idea --> sum (0 to n) = n * (n+1) / 2; --> (n+1)P2
 
         int len = nums.size();
@@ -31,9 +30,9 @@ public:
         }
 
         return sum;
-    } 
+    }
 
-    int missingNumber3(vector<int>& nums) {
+    int thirdApproach(vector<int>& nums) {
         int len = nums.size();
         vector<bool> found(len+1, false);
 
@@ -50,5 +49,11 @@ public:
         }
 
         return i;
+    }
+public:
+    int missingNumber(vector<int>& nums) {
+        return firstApproach(nums);
+        // return secondApproach(nums);
+        // return thirdApproach(nums);
     }
 };
