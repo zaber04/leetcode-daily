@@ -1,0 +1,24 @@
+class Solution {
+public:
+    int minimumDistance(vector<int>& nums) {
+        int len = nums.size();
+        int ans = len + 1;
+
+        for (int i = 0; i < len-2; i++) {
+            for (int j = i+1; j < len-1; j++) {
+                if (nums[i] != nums[j]) {
+                    continue;
+                }
+
+                for (int k = j+1; k < len; k++) {
+                    if (nums[j] == nums[k]) {
+                        ans = min(ans, k-i);
+                        break;
+                    }
+                }
+            }
+        }
+
+        return ans == len+1 ? -1 : ans*2;
+    }
+};
