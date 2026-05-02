@@ -53,6 +53,7 @@ Collection of LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/zaber04/leetcode-daily/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/zaber04/leetcode-daily/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/zaber04/leetcode-daily/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/zaber04/leetcode-daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/zaber04/leetcode-daily/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -69,6 +70,7 @@ Collection of LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/zaber04/leetcode-daily/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/zaber04/leetcode-daily/tree/main/0788-rotated-digits/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/zaber04/leetcode-daily/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/zaber04/leetcode-daily/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Two Pointers
