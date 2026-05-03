@@ -46,6 +46,7 @@ Collection of LeetCode Submissions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/zaber04/leetcode-daily/tree/main/0796-rotate-string/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/zaber04/leetcode-daily/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/zaber04/leetcode-daily/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/zaber04/leetcode-daily/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -107,4 +108,8 @@ Collection of LeetCode Submissions
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/zaber04/leetcode-daily/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/zaber04/leetcode-daily/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/zaber04/leetcode-daily/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
