@@ -6,6 +6,7 @@ Collection of LeetCode Submissions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/zaber04/leetcode-daily/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/zaber04/leetcode-daily/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/zaber04/leetcode-daily/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/zaber04/leetcode-daily/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -96,6 +97,7 @@ Collection of LeetCode Submissions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/zaber04/leetcode-daily/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/zaber04/leetcode-daily/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/zaber04/leetcode-daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/zaber04/leetcode-daily/tree/main/2540-minimum-common-value/) | Easy |
