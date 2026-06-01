@@ -35,6 +35,7 @@ Collection of LeetCode Submissions
 | [3225-maximum-score-from-grid-operations](https://github.com/zaber04/leetcode-daily/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/zaber04/leetcode-daily/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/zaber04/leetcode-daily/tree/main/3321-find-x-sum-of-all-k-long-subarrays-ii/) | Hard |
+| [3479-fruits-into-baskets-iii](https://github.com/zaber04/leetcode-daily/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/zaber04/leetcode-daily/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/zaber04/leetcode-daily/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/zaber04/leetcode-daily/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -115,6 +116,7 @@ Collection of LeetCode Submissions
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/zaber04/leetcode-daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/zaber04/leetcode-daily/tree/main/2540-minimum-common-value/) | Easy |
 | [3161-block-placement-queries](https://github.com/zaber04/leetcode-daily/tree/main/3161-block-placement-queries/) | Hard |
+| [3479-fruits-into-baskets-iii](https://github.com/zaber04/leetcode-daily/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/zaber04/leetcode-daily/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -204,8 +206,13 @@ Collection of LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/zaber04/leetcode-daily/tree/main/3161-block-placement-queries/) | Hard |
+| [3479-fruits-into-baskets-iii](https://github.com/zaber04/leetcode-daily/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/zaber04/leetcode-daily/tree/main/3321-find-x-sum-of-all-k-long-subarrays-ii/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3479-fruits-into-baskets-iii](https://github.com/zaber04/leetcode-daily/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 <!---LeetCode Topics End-->
