@@ -26,6 +26,7 @@ Collection of LeetCode Submissions
 | [2463-minimum-total-distance-traveled](https://github.com/zaber04/leetcode-daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/zaber04/leetcode-daily/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/zaber04/leetcode-daily/tree/main/2540-minimum-common-value/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/zaber04/leetcode-daily/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/zaber04/leetcode-daily/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/zaber04/leetcode-daily/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/zaber04/leetcode-daily/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -148,6 +149,7 @@ Collection of LeetCode Submissions
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/zaber04/leetcode-daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/zaber04/leetcode-daily/tree/main/1871-jump-game-vii/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/zaber04/leetcode-daily/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/zaber04/leetcode-daily/tree/main/2615-sum-of-distances/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/zaber04/leetcode-daily/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Counting
