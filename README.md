@@ -50,6 +50,7 @@ Collection of LeetCode Submissions
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/zaber04/leetcode-daily/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/zaber04/leetcode-daily/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/zaber04/leetcode-daily/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode Submissions
 | [2069-walking-robot-simulation-ii](https://github.com/zaber04/leetcode-daily/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zaber04/leetcode-daily/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/zaber04/leetcode-daily/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/zaber04/leetcode-daily/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@ Collection of LeetCode Submissions
 | [2833-furthest-point-from-origin](https://github.com/zaber04/leetcode-daily/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/zaber04/leetcode-daily/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/zaber04/leetcode-daily/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/zaber04/leetcode-daily/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
