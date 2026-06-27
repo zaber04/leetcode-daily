@@ -34,6 +34,7 @@ Collection of LeetCode Submissions
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/zaber04/leetcode-daily/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/zaber04/leetcode-daily/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/zaber04/leetcode-daily/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zaber04/leetcode-daily/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/zaber04/leetcode-daily/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3161-block-placement-queries](https://github.com/zaber04/leetcode-daily/tree/main/3161-block-placement-queries/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/zaber04/leetcode-daily/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -65,6 +66,7 @@ Collection of LeetCode Submissions
 | [2615-sum-of-distances](https://github.com/zaber04/leetcode-daily/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/zaber04/leetcode-daily/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/zaber04/leetcode-daily/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zaber04/leetcode-daily/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/zaber04/leetcode-daily/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/zaber04/leetcode-daily/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/zaber04/leetcode-daily/tree/main/3321-find-x-sum-of-all-k-long-subarrays-ii/) | Hard |
@@ -268,6 +270,7 @@ Collection of LeetCode Submissions
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zaber04/leetcode-daily/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/zaber04/leetcode-daily/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
