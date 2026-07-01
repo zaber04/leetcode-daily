@@ -21,6 +21,7 @@ Collection of LeetCode Submissions
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/zaber04/leetcode-daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/zaber04/leetcode-daily/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/zaber04/leetcode-daily/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/zaber04/leetcode-daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/zaber04/leetcode-daily/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/zaber04/leetcode-daily/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -108,6 +109,7 @@ Collection of LeetCode Submissions
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/zaber04/leetcode-daily/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zaber04/leetcode-daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/zaber04/leetcode-daily/tree/main/1871-jump-game-vii/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/zaber04/leetcode-daily/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/zaber04/leetcode-daily/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/zaber04/leetcode-daily/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/zaber04/leetcode-daily/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
