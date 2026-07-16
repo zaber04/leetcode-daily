@@ -63,6 +63,7 @@ Collection of LeetCode Submissions
 | [3742-maximum-path-score-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/zaber04/leetcode-daily/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/zaber04/leetcode-daily/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/zaber04/leetcode-daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode Submissions
 | [3614-process-string-with-special-operations-ii](https://github.com/zaber04/leetcode-daily/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/zaber04/leetcode-daily/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/zaber04/leetcode-daily/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/zaber04/leetcode-daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +156,7 @@ Collection of LeetCode Submissions
 | [2463-minimum-total-distance-traveled](https://github.com/zaber04/leetcode-daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/zaber04/leetcode-daily/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zaber04/leetcode-daily/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/zaber04/leetcode-daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +184,7 @@ Collection of LeetCode Submissions
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/zaber04/leetcode-daily/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/zaber04/leetcode-daily/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/zaber04/leetcode-daily/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/zaber04/leetcode-daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +195,7 @@ Collection of LeetCode Submissions
 | [2161-partition-array-according-to-given-pivot](https://github.com/zaber04/leetcode-daily/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/zaber04/leetcode-daily/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zaber04/leetcode-daily/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/zaber04/leetcode-daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,4 +342,5 @@ Collection of LeetCode Submissions
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zaber04/leetcode-daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zaber04/leetcode-daily/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/zaber04/leetcode-daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
