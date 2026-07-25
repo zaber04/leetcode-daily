@@ -161,6 +161,7 @@ Collection of LeetCode Submissions
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/zaber04/leetcode-daily/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/zaber04/leetcode-daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/zaber04/leetcode-daily/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/zaber04/leetcode-daily/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zaber04/leetcode-daily/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zaber04/leetcode-daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
@@ -188,6 +189,7 @@ Collection of LeetCode Submissions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/zaber04/leetcode-daily/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zaber04/leetcode-daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/zaber04/leetcode-daily/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/zaber04/leetcode-daily/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zaber04/leetcode-daily/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/zaber04/leetcode-daily/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/zaber04/leetcode-daily/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
