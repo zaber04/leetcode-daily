@@ -134,6 +134,7 @@ Collection of LeetCode Submissions
 | [3120-count-the-number-of-special-characters-i](https://github.com/zaber04/leetcode-daily/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/zaber04/leetcode-daily/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/zaber04/leetcode-daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/zaber04/leetcode-daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/zaber04/leetcode-daily/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/zaber04/leetcode-daily/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/zaber04/leetcode-daily/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -170,6 +171,7 @@ Collection of LeetCode Submissions
 | [2463-minimum-total-distance-traveled](https://github.com/zaber04/leetcode-daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/zaber04/leetcode-daily/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zaber04/leetcode-daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/zaber04/leetcode-daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/zaber04/leetcode-daily/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zaber04/leetcode-daily/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zaber04/leetcode-daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -353,6 +355,7 @@ Collection of LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/zaber04/leetcode-daily/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/zaber04/leetcode-daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
