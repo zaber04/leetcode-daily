@@ -35,6 +35,7 @@ Collection of LeetCode Submissions
 | [2126-destroying-asteroids](https://github.com/zaber04/leetcode-daily/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/zaber04/leetcode-daily/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zaber04/leetcode-daily/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/zaber04/leetcode-daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/zaber04/leetcode-daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/zaber04/leetcode-daily/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/zaber04/leetcode-daily/tree/main/2540-minimum-common-value/) | Easy |
@@ -137,6 +138,7 @@ Collection of LeetCode Submissions
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zaber04/leetcode-daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/zaber04/leetcode-daily/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/zaber04/leetcode-daily/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/zaber04/leetcode-daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/zaber04/leetcode-daily/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/zaber04/leetcode-daily/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zaber04/leetcode-daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -346,6 +348,7 @@ Collection of LeetCode Submissions
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/zaber04/leetcode-daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3161-block-placement-queries](https://github.com/zaber04/leetcode-daily/tree/main/3161-block-placement-queries/) | Hard |
 | [3479-fruits-into-baskets-iii](https://github.com/zaber04/leetcode-daily/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/zaber04/leetcode-daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -363,6 +366,7 @@ Collection of LeetCode Submissions
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/zaber04/leetcode-daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3479-fruits-into-baskets-iii](https://github.com/zaber04/leetcode-daily/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
