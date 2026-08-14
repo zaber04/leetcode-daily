@@ -95,6 +95,7 @@ Collection of LeetCode Submissions
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zaber04/leetcode-daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zaber04/leetcode-daily/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/zaber04/leetcode-daily/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/zaber04/leetcode-daily/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/zaber04/leetcode-daily/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/zaber04/leetcode-daily/tree/main/3321-find-x-sum-of-all-k-long-subarrays-ii/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/zaber04/leetcode-daily/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -143,6 +144,7 @@ Collection of LeetCode Submissions
 | [2833-furthest-point-from-origin](https://github.com/zaber04/leetcode-daily/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zaber04/leetcode-daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/zaber04/leetcode-daily/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/zaber04/leetcode-daily/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/zaber04/leetcode-daily/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/zaber04/leetcode-daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/zaber04/leetcode-daily/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -340,6 +342,7 @@ Collection of LeetCode Submissions
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zaber04/leetcode-daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/zaber04/leetcode-daily/tree/main/1871-jump-game-vii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/zaber04/leetcode-daily/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/zaber04/leetcode-daily/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/zaber04/leetcode-daily/tree/main/3321-find-x-sum-of-all-k-long-subarrays-ii/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
