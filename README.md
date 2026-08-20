@@ -52,6 +52,7 @@ Collection of LeetCode Submissions
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zaber04/leetcode-daily/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zaber04/leetcode-daily/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/zaber04/leetcode-daily/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/zaber04/leetcode-daily/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/zaber04/leetcode-daily/tree/main/3161-block-placement-queries/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/zaber04/leetcode-daily/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode Submissions
 | [1914-cyclically-rotating-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/zaber04/leetcode-daily/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zaber04/leetcode-daily/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/zaber04/leetcode-daily/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/zaber04/leetcode-daily/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/zaber04/leetcode-daily/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/zaber04/leetcode-daily/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
