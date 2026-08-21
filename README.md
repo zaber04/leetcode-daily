@@ -53,6 +53,7 @@ Collection of LeetCode Submissions
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zaber04/leetcode-daily/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/zaber04/leetcode-daily/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/zaber04/leetcode-daily/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zaber04/leetcode-daily/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/zaber04/leetcode-daily/tree/main/3161-block-placement-queries/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/zaber04/leetcode-daily/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -212,6 +213,7 @@ Collection of LeetCode Submissions
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/zaber04/leetcode-daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/zaber04/leetcode-daily/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zaber04/leetcode-daily/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/zaber04/leetcode-daily/tree/main/3161-block-placement-queries/) | Hard |
 | [3479-fruits-into-baskets-iii](https://github.com/zaber04/leetcode-daily/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/zaber04/leetcode-daily/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -232,6 +234,7 @@ Collection of LeetCode Submissions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zaber04/leetcode-daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/zaber04/leetcode-daily/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/zaber04/leetcode-daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zaber04/leetcode-daily/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/zaber04/leetcode-daily/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zaber04/leetcode-daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/zaber04/leetcode-daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -343,6 +346,7 @@ Collection of LeetCode Submissions
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/zaber04/leetcode-daily/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/zaber04/leetcode-daily/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zaber04/leetcode-daily/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/zaber04/leetcode-daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/zaber04/leetcode-daily/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/zaber04/leetcode-daily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -422,6 +426,7 @@ Collection of LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zaber04/leetcode-daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zaber04/leetcode-daily/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zaber04/leetcode-daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zaber04/leetcode-daily/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zaber04/leetcode-daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -436,6 +441,7 @@ Collection of LeetCode Submissions
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zaber04/leetcode-daily/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/zaber04/leetcode-daily/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
