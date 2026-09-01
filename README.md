@@ -68,6 +68,7 @@ Collection of LeetCode Submissions
 | [3501-maximize-active-section-with-trade-ii](https://github.com/zaber04/leetcode-daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/zaber04/leetcode-daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/zaber04/leetcode-daily/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/zaber04/leetcode-daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/zaber04/leetcode-daily/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zaber04/leetcode-daily/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/zaber04/leetcode-daily/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode Submissions
 | [3471-find-the-largest-almost-missing-integer](https://github.com/zaber04/leetcode-daily/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/zaber04/leetcode-daily/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/zaber04/leetcode-daily/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/zaber04/leetcode-daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/zaber04/leetcode-daily/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/zaber04/leetcode-daily/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zaber04/leetcode-daily/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -303,6 +305,7 @@ Collection of LeetCode Submissions
 | [2685-count-the-number-of-complete-components](https://github.com/zaber04/leetcode-daily/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/zaber04/leetcode-daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +325,7 @@ Collection of LeetCode Submissions
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/zaber04/leetcode-daily/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/zaber04/leetcode-daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -358,6 +362,7 @@ Collection of LeetCode Submissions
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zaber04/leetcode-daily/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/zaber04/leetcode-daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/zaber04/leetcode-daily/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/zaber04/leetcode-daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/zaber04/leetcode-daily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
