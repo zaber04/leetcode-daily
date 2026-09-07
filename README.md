@@ -152,6 +152,7 @@ Collection of LeetCode Submissions
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/zaber04/leetcode-daily/tree/main/0115-distinct-subsequences/) | Hard |
 | [0796-rotate-string](https://github.com/zaber04/leetcode-daily/tree/main/0796-rotate-string/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/zaber04/leetcode-daily/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zaber04/leetcode-daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/zaber04/leetcode-daily/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/zaber04/leetcode-daily/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -182,6 +183,7 @@ Collection of LeetCode Submissions
 | [0486-predict-the-winner](https://github.com/zaber04/leetcode-daily/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/zaber04/leetcode-daily/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/zaber04/leetcode-daily/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/zaber04/leetcode-daily/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/zaber04/leetcode-daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/zaber04/leetcode-daily/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1406-stone-game-iii](https://github.com/zaber04/leetcode-daily/tree/main/1406-stone-game-iii/) | Hard |
