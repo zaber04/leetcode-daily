@@ -191,6 +191,7 @@ Collection of LeetCode Submissions
 | [1140-stone-game-ii](https://github.com/zaber04/leetcode-daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/zaber04/leetcode-daily/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1406-stone-game-iii](https://github.com/zaber04/leetcode-daily/tree/main/1406-stone-game-iii/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/zaber04/leetcode-daily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1871-jump-game-vii](https://github.com/zaber04/leetcode-daily/tree/main/1871-jump-game-vii/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/zaber04/leetcode-daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/zaber04/leetcode-daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -252,6 +253,7 @@ Collection of LeetCode Submissions
 | [1140-stone-game-ii](https://github.com/zaber04/leetcode-daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/zaber04/leetcode-daily/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/zaber04/leetcode-daily/tree/main/1406-stone-game-iii/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/zaber04/leetcode-daily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zaber04/leetcode-daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/zaber04/leetcode-daily/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/zaber04/leetcode-daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -290,6 +292,7 @@ Collection of LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/zaber04/leetcode-daily/tree/main/1140-stone-game-ii/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/zaber04/leetcode-daily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/zaber04/leetcode-daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/zaber04/leetcode-daily/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/zaber04/leetcode-daily/tree/main/1871-jump-game-vii/) | Medium |
@@ -479,6 +482,7 @@ Collection of LeetCode Submissions
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/zaber04/leetcode-daily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zaber04/leetcode-daily/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/zaber04/leetcode-daily/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Recursion
