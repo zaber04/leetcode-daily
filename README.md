@@ -259,6 +259,7 @@ Collection of LeetCode Submissions
 | [0877-stone-game](https://github.com/zaber04/leetcode-daily/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/zaber04/leetcode-daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/zaber04/leetcode-daily/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/zaber04/leetcode-daily/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/zaber04/leetcode-daily/tree/main/1406-stone-game-iii/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/zaber04/leetcode-daily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zaber04/leetcode-daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -535,4 +536,5 @@ Collection of LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/zaber04/leetcode-daily/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/zaber04/leetcode-daily/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
