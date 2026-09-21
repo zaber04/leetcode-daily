@@ -71,6 +71,7 @@ Collection of LeetCode Submissions
 | [3501-maximize-active-section-with-trade-ii](https://github.com/zaber04/leetcode-daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/zaber04/leetcode-daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/zaber04/leetcode-daily/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/zaber04/leetcode-daily/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/zaber04/leetcode-daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/zaber04/leetcode-daily/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zaber04/leetcode-daily/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -206,6 +207,7 @@ Collection of LeetCode Submissions
 | [3225-maximum-score-from-grid-operations](https://github.com/zaber04/leetcode-daily/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/zaber04/leetcode-daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zaber04/leetcode-daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/zaber04/leetcode-daily/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/zaber04/leetcode-daily/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/zaber04/leetcode-daily/tree/main/3660-jump-game-ix/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/zaber04/leetcode-daily/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -273,6 +275,7 @@ Collection of LeetCode Submissions
 | [3513-number-of-unique-xor-triplets-i](https://github.com/zaber04/leetcode-daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/zaber04/leetcode-daily/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/zaber04/leetcode-daily/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/zaber04/leetcode-daily/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/zaber04/leetcode-daily/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/zaber04/leetcode-daily/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zaber04/leetcode-daily/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
