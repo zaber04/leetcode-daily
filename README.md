@@ -22,6 +22,7 @@ Collection of LeetCode Submissions
 | [1406-stone-game-iii](https://github.com/zaber04/leetcode-daily/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/zaber04/leetcode-daily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/zaber04/leetcode-daily/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/zaber04/leetcode-daily/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/zaber04/leetcode-daily/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/zaber04/leetcode-daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/zaber04/leetcode-daily/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -106,6 +107,7 @@ Collection of LeetCode Submissions
 | [1386-cinema-seat-allocation](https://github.com/zaber04/leetcode-daily/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/zaber04/leetcode-daily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/zaber04/leetcode-daily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/zaber04/leetcode-daily/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/zaber04/leetcode-daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2540-minimum-common-value](https://github.com/zaber04/leetcode-daily/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/zaber04/leetcode-daily/tree/main/2615-sum-of-distances/) | Medium |
@@ -243,6 +245,7 @@ Collection of LeetCode Submissions
 | [0033-search-in-rotated-sorted-array](https://github.com/zaber04/leetcode-daily/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/zaber04/leetcode-daily/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/zaber04/leetcode-daily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/zaber04/leetcode-daily/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/zaber04/leetcode-daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/zaber04/leetcode-daily/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -308,6 +311,7 @@ Collection of LeetCode Submissions
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/zaber04/leetcode-daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/zaber04/leetcode-daily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/zaber04/leetcode-daily/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/zaber04/leetcode-daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/zaber04/leetcode-daily/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/zaber04/leetcode-daily/tree/main/1871-jump-game-vii/) | Medium |
@@ -414,6 +418,7 @@ Collection of LeetCode Submissions
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zaber04/leetcode-daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/zaber04/leetcode-daily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/zaber04/leetcode-daily/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1871-jump-game-vii](https://github.com/zaber04/leetcode-daily/tree/main/1871-jump-game-vii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/zaber04/leetcode-daily/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/zaber04/leetcode-daily/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
