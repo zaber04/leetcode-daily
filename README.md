@@ -167,6 +167,7 @@ Collection of LeetCode Submissions
 | [0796-rotate-string](https://github.com/zaber04/leetcode-daily/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/zaber04/leetcode-daily/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zaber04/leetcode-daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/zaber04/leetcode-daily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/zaber04/leetcode-daily/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/zaber04/leetcode-daily/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -505,6 +506,7 @@ Collection of LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zaber04/leetcode-daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/zaber04/leetcode-daily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
@@ -562,6 +564,7 @@ Collection of LeetCode Submissions
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/zaber04/leetcode-daily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/zaber04/leetcode-daily/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
