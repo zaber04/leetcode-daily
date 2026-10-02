@@ -214,6 +214,7 @@ Collection of LeetCode Submissions
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/zaber04/leetcode-daily/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1406-stone-game-iii](https://github.com/zaber04/leetcode-daily/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/zaber04/leetcode-daily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1510-stone-game-iv](https://github.com/zaber04/leetcode-daily/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/zaber04/leetcode-daily/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/zaber04/leetcode-daily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1871-jump-game-vii](https://github.com/zaber04/leetcode-daily/tree/main/1871-jump-game-vii/) | Medium |
@@ -283,6 +284,7 @@ Collection of LeetCode Submissions
 | [1344-angle-between-hands-of-a-clock](https://github.com/zaber04/leetcode-daily/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/zaber04/leetcode-daily/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/zaber04/leetcode-daily/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/zaber04/leetcode-daily/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/zaber04/leetcode-daily/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/zaber04/leetcode-daily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zaber04/leetcode-daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -541,6 +543,7 @@ Collection of LeetCode Submissions
 | [0877-stone-game](https://github.com/zaber04/leetcode-daily/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/zaber04/leetcode-daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/zaber04/leetcode-daily/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/zaber04/leetcode-daily/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/zaber04/leetcode-daily/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/zaber04/leetcode-daily/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
@@ -548,16 +551,19 @@ Collection of LeetCode Submissions
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/zaber04/leetcode-daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/zaber04/leetcode-daily/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/zaber04/leetcode-daily/tree/main/1510-stone-game-iv/) | Hard |
 | [2029-stone-game-ix](https://github.com/zaber04/leetcode-daily/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/zaber04/leetcode-daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/zaber04/leetcode-daily/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/zaber04/leetcode-daily/tree/main/1510-stone-game-iv/) | Hard |
 | [2029-stone-game-ix](https://github.com/zaber04/leetcode-daily/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1510-stone-game-iv](https://github.com/zaber04/leetcode-daily/tree/main/1510-stone-game-iv/) | Hard |
 | [2029-stone-game-ix](https://github.com/zaber04/leetcode-daily/tree/main/2029-stone-game-ix/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -585,4 +591,8 @@ Collection of LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/0022-generate-parentheses/) | Medium |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/zaber04/leetcode-daily/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
