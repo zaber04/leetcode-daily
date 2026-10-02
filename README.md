@@ -164,6 +164,7 @@ Collection of LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/zaber04/leetcode-daily/tree/main/0115-distinct-subsequences/) | Hard |
 | [0796-rotate-string](https://github.com/zaber04/leetcode-daily/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/zaber04/leetcode-daily/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -198,6 +199,7 @@ Collection of LeetCode Submissions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/zaber04/leetcode-daily/tree/main/0115-distinct-subsequences/) | Hard |
 | [0396-rotate-function](https://github.com/zaber04/leetcode-daily/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/zaber04/leetcode-daily/tree/main/0486-predict-the-winner/) | Medium |
@@ -567,8 +569,13 @@ Collection of LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/zaber04/leetcode-daily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/zaber04/leetcode-daily/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
