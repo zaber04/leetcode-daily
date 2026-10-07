@@ -169,6 +169,7 @@ Collection of LeetCode Submissions
 | [0020-valid-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/zaber04/leetcode-daily/tree/main/0115-distinct-subsequences/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/zaber04/leetcode-daily/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/zaber04/leetcode-daily/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/zaber04/leetcode-daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -362,6 +363,7 @@ Collection of LeetCode Submissions
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1345-jump-game-iv](https://github.com/zaber04/leetcode-daily/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/zaber04/leetcode-daily/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -600,6 +602,7 @@ Collection of LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
