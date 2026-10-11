@@ -53,6 +53,7 @@ Collection of LeetCode Submissions
 | [2615-sum-of-distances](https://github.com/zaber04/leetcode-daily/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/zaber04/leetcode-daily/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/zaber04/leetcode-daily/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/zaber04/leetcode-daily/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/zaber04/leetcode-daily/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/zaber04/leetcode-daily/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
@@ -490,6 +491,7 @@ Collection of LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/zaber04/leetcode-daily/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/zaber04/leetcode-daily/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zaber04/leetcode-daily/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/zaber04/leetcode-daily/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/zaber04/leetcode-daily/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
