@@ -314,6 +314,7 @@ Collection of LeetCode Submissions
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/zaber04/leetcode-daily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/zaber04/leetcode-daily/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zaber04/leetcode-daily/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/zaber04/leetcode-daily/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/zaber04/leetcode-daily/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/zaber04/leetcode-daily/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/zaber04/leetcode-daily/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -435,6 +436,7 @@ Collection of LeetCode Submissions
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zaber04/leetcode-daily/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/zaber04/leetcode-daily/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/zaber04/leetcode-daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/zaber04/leetcode-daily/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/zaber04/leetcode-daily/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
