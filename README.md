@@ -15,6 +15,7 @@ Collection of LeetCode Submissions
 | [0874-walking-robot-simulation](https://github.com/zaber04/leetcode-daily/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/zaber04/leetcode-daily/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/zaber04/leetcode-daily/tree/main/1140-stone-game-ii/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/zaber04/leetcode-daily/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/zaber04/leetcode-daily/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/zaber04/leetcode-daily/tree/main/1345-jump-game-iv/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/zaber04/leetcode-daily/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -382,6 +383,7 @@ Collection of LeetCode Submissions
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/zaber04/leetcode-daily/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/zaber04/leetcode-daily/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/zaber04/leetcode-daily/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -390,6 +392,7 @@ Collection of LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/zaber04/leetcode-daily/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1345-jump-game-iv](https://github.com/zaber04/leetcode-daily/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/zaber04/leetcode-daily/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -400,6 +403,7 @@ Collection of LeetCode Submissions
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/zaber04/leetcode-daily/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/zaber04/leetcode-daily/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/zaber04/leetcode-daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -410,6 +414,7 @@ Collection of LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/zaber04/leetcode-daily/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/zaber04/leetcode-daily/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/zaber04/leetcode-daily/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1861-rotating-the-box](https://github.com/zaber04/leetcode-daily/tree/main/1861-rotating-the-box/) | Medium |
