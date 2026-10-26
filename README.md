@@ -86,6 +86,7 @@ Collection of LeetCode Submissions
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/zaber04/leetcode-daily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/zaber04/leetcode-daily/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/zaber04/leetcode-daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/zaber04/leetcode-daily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/zaber04/leetcode-daily/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zaber04/leetcode-daily/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/zaber04/leetcode-daily/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -388,6 +389,7 @@ Collection of LeetCode Submissions
 | [1559-detect-cycles-in-2d-grid](https://github.com/zaber04/leetcode-daily/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/zaber04/leetcode-daily/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/zaber04/leetcode-daily/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/zaber04/leetcode-daily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,6 +402,7 @@ Collection of LeetCode Submissions
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/zaber04/leetcode-daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/zaber04/leetcode-daily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -410,6 +413,7 @@ Collection of LeetCode Submissions
 | [2685-count-the-number-of-complete-components](https://github.com/zaber04/leetcode-daily/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/zaber04/leetcode-daily/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/zaber04/leetcode-daily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -425,6 +429,7 @@ Collection of LeetCode Submissions
 | [3225-maximum-score-from-grid-operations](https://github.com/zaber04/leetcode-daily/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/zaber04/leetcode-daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/zaber04/leetcode-daily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
