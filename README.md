@@ -224,6 +224,7 @@ Collection of LeetCode Submissions
 | [3614-process-string-with-special-operations-ii](https://github.com/zaber04/leetcode-daily/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/zaber04/leetcode-daily/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/zaber04/leetcode-daily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/zaber04/leetcode-daily/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -527,6 +528,7 @@ Collection of LeetCode Submissions
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/zaber04/leetcode-daily/tree/main/3321-find-x-sum-of-all-k-long-subarrays-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/zaber04/leetcode-daily/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/zaber04/leetcode-daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/zaber04/leetcode-daily/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -559,11 +561,13 @@ Collection of LeetCode Submissions
 | [2685-count-the-number-of-complete-components](https://github.com/zaber04/leetcode-daily/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/zaber04/leetcode-daily/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/zaber04/leetcode-daily/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/zaber04/leetcode-daily/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/zaber04/leetcode-daily/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
