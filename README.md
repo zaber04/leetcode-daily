@@ -113,6 +113,7 @@ Collection of LeetCode Submissions
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zaber04/leetcode-daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/zaber04/leetcode-daily/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/zaber04/leetcode-daily/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/zaber04/leetcode-daily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3904-smallest-stable-index-ii](https://github.com/zaber04/leetcode-daily/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
@@ -266,6 +267,7 @@ Collection of LeetCode Submissions
 | [3742-maximum-path-score-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/zaber04/leetcode-daily/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/zaber04/leetcode-daily/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -446,6 +448,7 @@ Collection of LeetCode Submissions
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/zaber04/leetcode-daily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/zaber04/leetcode-daily/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -493,6 +496,7 @@ Collection of LeetCode Submissions
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/zaber04/leetcode-daily/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/zaber04/leetcode-daily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/zaber04/leetcode-daily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
