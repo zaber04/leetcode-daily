@@ -78,6 +78,7 @@ Collection of LeetCode Submissions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/zaber04/leetcode-daily/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/zaber04/leetcode-daily/tree/main/3321-find-x-sum-of-all-k-long-subarrays-ii/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zaber04/leetcode-daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/zaber04/leetcode-daily/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/zaber04/leetcode-daily/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3479-fruits-into-baskets-iii](https://github.com/zaber04/leetcode-daily/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/zaber04/leetcode-daily/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -524,6 +525,7 @@ Collection of LeetCode Submissions
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/zaber04/leetcode-daily/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/zaber04/leetcode-daily/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/zaber04/leetcode-daily/tree/main/3321-find-x-sum-of-all-k-long-subarrays-ii/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/zaber04/leetcode-daily/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/zaber04/leetcode-daily/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -539,6 +541,7 @@ Collection of LeetCode Submissions
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/zaber04/leetcode-daily/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/zaber04/leetcode-daily/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3161-block-placement-queries](https://github.com/zaber04/leetcode-daily/tree/main/3161-block-placement-queries/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/zaber04/leetcode-daily/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3479-fruits-into-baskets-iii](https://github.com/zaber04/leetcode-daily/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/zaber04/leetcode-daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/zaber04/leetcode-daily/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -623,10 +626,12 @@ Collection of LeetCode Submissions
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/zaber04/leetcode-daily/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zaber04/leetcode-daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/zaber04/leetcode-daily/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zaber04/leetcode-daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/zaber04/leetcode-daily/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -718,4 +723,12 @@ Collection of LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/zaber04/leetcode-daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/zaber04/leetcode-daily/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/zaber04/leetcode-daily/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
