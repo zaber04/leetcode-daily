@@ -55,6 +55,7 @@ Collection of LeetCode Submissions
 | [2463-minimum-total-distance-traveled](https://github.com/zaber04/leetcode-daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/zaber04/leetcode-daily/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/zaber04/leetcode-daily/tree/main/2540-minimum-common-value/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/zaber04/leetcode-daily/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/zaber04/leetcode-daily/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/zaber04/leetcode-daily/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/zaber04/leetcode-daily/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -296,6 +297,7 @@ Collection of LeetCode Submissions
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/zaber04/leetcode-daily/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/zaber04/leetcode-daily/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/zaber04/leetcode-daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/zaber04/leetcode-daily/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/zaber04/leetcode-daily/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/zaber04/leetcode-daily/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/zaber04/leetcode-daily/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -498,6 +500,7 @@ Collection of LeetCode Submissions
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/zaber04/leetcode-daily/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/zaber04/leetcode-daily/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/zaber04/leetcode-daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/zaber04/leetcode-daily/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/zaber04/leetcode-daily/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zaber04/leetcode-daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/zaber04/leetcode-daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
