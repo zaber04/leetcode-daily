@@ -127,6 +127,7 @@ Collection of LeetCode Submissions
 | [3882-minimum-xor-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/zaber04/leetcode-daily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3904-smallest-stable-index-ii](https://github.com/zaber04/leetcode-daily/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/zaber04/leetcode-daily/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +172,7 @@ Collection of LeetCode Submissions
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/zaber04/leetcode-daily/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/zaber04/leetcode-daily/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/zaber04/leetcode-daily/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/zaber04/leetcode-daily/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,6 +341,7 @@ Collection of LeetCode Submissions
 | [3501-maximize-active-section-with-trade-ii](https://github.com/zaber04/leetcode-daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/zaber04/leetcode-daily/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zaber04/leetcode-daily/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/zaber04/leetcode-daily/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -766,4 +769,16 @@ Collection of LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/zaber04/leetcode-daily/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/zaber04/leetcode-daily/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/zaber04/leetcode-daily/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/zaber04/leetcode-daily/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
