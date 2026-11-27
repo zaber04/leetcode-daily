@@ -128,6 +128,7 @@ Collection of LeetCode Submissions
 | [3886-sum-of-sortable-integers](https://github.com/zaber04/leetcode-daily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3904-smallest-stable-index-ii](https://github.com/zaber04/leetcode-daily/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/zaber04/leetcode-daily/tree/main/3934-smallest-unique-subarray/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/zaber04/leetcode-daily/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +296,7 @@ Collection of LeetCode Submissions
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/zaber04/leetcode-daily/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/zaber04/leetcode-daily/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/zaber04/leetcode-daily/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/zaber04/leetcode-daily/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -528,6 +530,7 @@ Collection of LeetCode Submissions
 | [3691-maximum-total-subarray-value-ii](https://github.com/zaber04/leetcode-daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/zaber04/leetcode-daily/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/zaber04/leetcode-daily/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/zaber04/leetcode-daily/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
